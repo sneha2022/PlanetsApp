@@ -13,5 +13,3 @@ An engaging and beginner-friendly Android application that lets users explore th
 - 🔧 Implements the ViewHolder pattern for smooth scrolling and optimal performance
 - ✅ Clean object-oriented structure with reusable components
 
-## 🧩 Project Structure
-
